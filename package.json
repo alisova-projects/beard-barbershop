@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://alisova-projects/beard-barbershop",
+  "homepage": "https://alisova-projects.github.io/beard-barbershop",
   "scripts": {
     "dev": "parcel src/*.html",
     "build": "parcel build src/*.html",
